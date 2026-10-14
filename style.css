@@ -1,3 +1,7 @@
+body {
+    background-color: aqua;
+}
+
 .splide .splide__slide img {
     width: 100%;
 }
